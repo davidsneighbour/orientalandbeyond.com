@@ -1,0 +1,11 @@
+# Local Netlify folder
+.netlify
+
+# local setup
+/local/logs
+
+# npm
+node_modules
+
+# wordpress files
+/local/app/public/wp-content/docket-cache-data
